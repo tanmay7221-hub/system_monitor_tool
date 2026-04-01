@@ -91,4 +91,15 @@ Aspiring IT Support Engineer | Tech Enthusiast
 
 - Add GUI dashboard  
 - Store data in database  
-- Real-time monitoring with auto-refresh  
+- Real-time monitoring with auto-refresh
+
+
+screenshots:
+
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/d754065a-777d-4a6f-924e-db12be892257" />
+
+
+
+
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/4ca5a305-37b8-4876-883a-e6ecc74c560c" />
+
